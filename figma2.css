@@ -1,0 +1,22 @@
+#bakky{
+    margin-top: 3rem;
+}
+
+
+
+@media only screen and (max-width: 850px) {
+    #bakky{
+        margin-top: -5rem;
+        background-color: rgb(246, 235, 235);
+        border-radius: 25px;
+        padding-block: 20px;
+        padding-inline: 50px;
+    }
+    #bukky{
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    #val{
+        width: 80px;
+    }
+}
